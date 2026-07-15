@@ -11,14 +11,9 @@
       "done": false
     },
     {
-      "id": "3",
       "title": "Learn HTML",
-      "done": false
-    },
-    {
-      "title": "123",
       "done": true,
-      "id": "Mk7DF1OjFTo"
+      "id": "3"
     }
   ],
   "$schema": "./node_modules/json-server/schema.json"
