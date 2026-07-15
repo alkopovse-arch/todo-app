@@ -1,8 +1,7 @@
-@use "../../styles/common";
-
 .task-list {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 8px;
+  margin: 25px 0;
 }
