@@ -1,0 +1,6 @@
+@use "../../styles/common";
+
+.task-item {
+  border: 1px solid common.$color-btnText;
+  padding: 16px;
+}
